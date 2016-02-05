@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 20160204172206) do
     t.datetime "date"
     t.string   "workout"
     t.string   "mood"
-    t.string   "lenght"
+    t.string   "length"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
